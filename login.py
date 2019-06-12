@@ -6,5 +6,8 @@ def info():
 def index():
 	print("index info")
 
+
 def detail():
 	print("detail")
+b = 2
+
