@@ -5,3 +5,4 @@ def info():
 
 def index():
 	print("index info")
+b = 2
